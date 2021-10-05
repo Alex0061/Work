@@ -5,31 +5,31 @@
 </head>
 
 <body>
-  <header>
-      <h1><strong>Personal information</strong></h1>
-      <p><em><strong>Date of birth and location</strong></em></p>
-    <ul>
-      <li>Edinburgh</li>
-      <li>24/06/1987</li>
-    </ul>
-  <p><em><strong>Current and Previous living address</strong></em></p>
-    <ol>
-      <li>Previous - 12 Willowbrae RdEdinburgh EH8 7DB
-      <li>Current - 13, Regent Street, Edinburgh, Midlothian EH15 2AY
-    </ol>
-  <p><em><strong>Single/Married/Cohabiting</strong></em></p>
-	<ul><li> Just Cohabiting</li></ul>
-  <h2><em>Image of myself</em></h2>
-  <img src="manphoto.jpg" width="450" height="360" />
-</header>
+  <header><center><b>CV</b></center>
+        <h1><strong>Personal information</strong></h1>
+        <p><em><strong>Date of birth and location</strong></em></p>
+      <ul>
+        <li>Edinburgh</li>
+        <li>24/06/1987</li>
+      </ul>
+    <p><em><strong>Current and Previous living address</strong></em></p>
+      <ol>
+        <li>Previous - 12 Willowbrae RdEdinburgh EH8 7DB
+        <li>Current - 13, Regent Street, Edinburgh, Midlothian EH15 2AY
+      </ol>
+    <p><em><strong>Single/Married/Cohabiting</strong></em></p>
+	 <ul><li> Just Cohabiting</li></ul>
+    <h2><em>Image of myself</em></h2>
+    <img src="manphoto.jpg" width="450" height="360" />
+  </header>
 <main>
-<h3><strong><em>Education</strong></em></h3>
-  <p><strong>-</<strong>
-  <p><strong>-</<strong>
-  <p><strong>-</<strong>
-<h4><em>Work experience</em></h4>
-<p><strong>-</<strong>
-<p><strong>-</<strong>
+      <h3><strong><em>Education</strong></em></h3>
+        <p><strong>-</<strong>
+        <p><strong>-</<strong>
+        <p><strong>-</<strong>
+      <h4><em>Work experience</em></h4>
+        <p><strong>-</<strong>
+        <p><strong>-</<strong>
 </main>
   <footer>
     <h5><em>Contact info</em><h5>
@@ -39,4 +39,5 @@
         <li><em>Business address :</em> 28, Grange Crescent, Edinburgh, Edinburgh, EH9 2EH</li>
       </ol>
   </footer>
+</body>
 </html>
