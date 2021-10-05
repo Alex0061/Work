@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<title>CV Document</title>
+</head>
+
+<body>
+
+<h1><strong>Personal information</strong></h1>
+  <p><em>Date of birth</em></p>
+    <ol>
+      <li>24/06/1987</li>
+    </ol>
+  <p><em>living address</em></p>
+    <ol>
+      <li>Previous - 12 Willowbrae RdEdinburgh EH8 7DB
+      <li>Current - 13, Regent Street, Edinburgh, Midlothian EH15 2AY
+  <p><em>Single/Married/Cohabiting</em></p>
+<h2><em>Education</em></h2>
+  <ul>
+    <li>-
+    <li>-
+<h2><em>Work experience</em></h2>
+  <p>
+  <p>
+<h3><em>Image of myself</em></h3>
+  <img src="manphoto.jpg" width="400" height="300" />
+
+  
