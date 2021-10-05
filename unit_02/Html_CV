@@ -5,10 +5,11 @@
 </head>
 
 <body>
-
-<h1><strong>Personal information</strong></h1>
-  <p><em><strong>Date of birth</strong></em></p>
+  <header>
+      <h1><strong>Personal information</strong></h1>
+      <p><em><strong>Date of birth and location</strong></em></p>
     <ul>
+      <li>Edinburgh</li>
       <li>24/06/1987</li>
     </ul>
   <p><em><strong>Current and Previous living address</strong></em></p>
@@ -18,14 +19,24 @@
     </ol>
   <p><em><strong>Single/Married/Cohabiting</strong></em></p>
 	<ul><li> Just Cohabiting</li></ul>
-<h2><strong><em>Education</strong></em></h2>
-  <ul>
-    <li>-
-    <li>-
-<h3><em>Work experience</em></h3>
-  <ul>
-    <li>
-    <li>
-  </ul>
-<h3><em>Image of myself</em></h3>
+  <h2><em>Image of myself</em></h2>
   <img src="manphoto.jpg" width="450" height="360" />
+</header>
+<main>
+<h3><strong><em>Education</strong></em></h3>
+  <p><strong>-</<strong>
+  <p><strong>-</<strong>
+  <p><strong>-</<strong>
+<h4><em>Work experience</em></h4>
+<p><strong>-</<strong>
+<p><strong>-</<strong>
+</main>
+  <footer>
+    <h5><em>Contact info</em><h5>
+      <ol>
+        <li><em>Phone number :</em> 0746542733 </li>
+        <li><em>Email address :</em> ronalddonald@outlook.ac.uk</li>
+        <li><em>Business address :</em> 28, Grange Crescent, Edinburgh, Edinburgh, EH9 2EH</li>
+      </ol>
+  </footer>
+</html>
