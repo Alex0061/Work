@@ -5,8 +5,10 @@
 </head>
 
 <body>
-  <header><center>CV</center>
-        <h1><strong>Personal information</strong></h1>
+  <header><center><i><u>CV</i></u></center>
+        <h1><b><em><u>Profile</u></em></b></h1>
+            <ul><li>Art Lecturer with 10+ years of experience in facilitating learning in the fine arts focusing on contemporary artists who use digital media as a tool for photographic practice. Specialist in the communication of visual ideas through computer, digital camera and hybrid practice with a basis in photography as a medium for creating art. Active, exhibiting artist with portfolio of work available upon request. Contributed to 20% increase in BFA students taking up post-graduate studies and 15% increase in average test scores. Winner of Fine Art Photography Award 2017 in seascape category.</li></ul>
+        <h1><strong><em><u>Personal information</u></em></strong></h1>
         <p><em><strong>Date of birth and location</strong></em></p>
       <ul>
         <li>Edinburgh</li>
@@ -19,11 +21,11 @@
       </ol>
     <p><em><strong>Single/Married/Cohabiting</strong></em></p>
 	 <ul><li> Just Cohabiting</li></ul>
-    <h2><em>Image of myself</em></h2>
+    <h2><em><u>Image of myself</u></em></h2>
     <img src="manphoto.jpg" width="450" height="360" />
   </header>
 <main>
-      <h3><strong><em>Education</strong></em></h3>
+      <h3><strong><em><u>Education</u></strong></em></h3>
         <ol>
         <li><em>2008 MFA in Visual Art, Major in Expanded Media
                 Department of Visual Art
@@ -39,7 +41,7 @@
                 University of Edinburgh, Edinburgh, UK
                 Graduated with Honors in English.</em>
         </ol>
-      <h4><em>Skills</em></h4>
+      <h4><em><u>Skills</u></em></h4>
 	     <ul>
         <li><strong><em>Imagination, creativity and ingenuity</em>
         <li><em>Fluent in English and French</em>
@@ -47,13 +49,13 @@
         <li><em>Team-working and being able to work independently</em>
         <li><em>Visual presentation (An understanding of how to acquire, organize and design exhibits of artistic collections)</em></strong>
 	     </ul>
-      <h5><strong><em>Professional Organisations</em></strong></h5>
+      <h5><strong><em><u>Professional Organisations</u></em></strong></h5>
       <p>College Art Association</p>
       <p>National Association for the Visual Arts</p>
       <p>Photographic Society of America</p>
 </main>
   <footer>
-      <h6><em>Contact info</em><h6>
+      <h6><em><u>Contact info</u></em><h6>
       <ol>
         <li><em>Phone number :</em> +40746542733 </li>
         <li><em>Email address :</em> ronalddonald@outlook.ac.uk</li>
@@ -61,6 +63,6 @@
       </ol>
   </footer>
   <label for="file">File progress: </label>
-  <progress id="file"max="100" value="90">90%</progress>
+  <progress id="file"max="100" value="100">100%</progress>
 </body>
 </html>
