@@ -5,7 +5,7 @@
 </head>
 
 <body>
-  <header><center><b>CV</b></center>
+  <header><center>CV</center>
         <h1><strong>Personal information</strong></h1>
         <p><em><strong>Date of birth and location</strong></em></p>
       <ul>
@@ -24,20 +24,43 @@
   </header>
 <main>
       <h3><strong><em>Education</strong></em></h3>
-        <p><strong>-</<strong>
-        <p><strong>-</<strong>
-        <p><strong>-</<strong>
-      <h4><em>Work experience</em></h4>
-        <p><strong>-</<strong>
-        <p><strong>-</<strong>
+        <ol>
+        <li><em>2008 MFA in Visual Art, Major in Expanded Media
+                Department of Visual Art
+                University of Kansas, Lawrence, KS
+                Thesis Exhibition: “Shadows of Automation: Landscape with Metaphysical St George”
+                Faculty Mentor Professor Maria Velasco
+        <li><em>2005 BFA in Visual Art, Major in Expanded Media
+                Department of Visual Art
+                University of Kansas, Lawrence, KS
+                Graduated summa cum laude
+        <li><em>2003 University of Edinburgh
+                Department of English, Francophone & English Studies
+                University of Edinburgh, Edinburgh, UK
+                Graduated with Honors in English.</em>
+        </ol>
+      <h4><em>Skills</em></h4>
+	     <ul>
+        <li><strong><em>Imagination, creativity and ingenuity</em>
+        <li><em>Fluent in English and French</em>
+        <li><em>Creative problem-solving and decision-making (The ability adapt easy and quickly)</em>
+        <li><em>Team-working and being able to work independently</em>
+        <li><em>Visual presentation (An understanding of how to acquire, organize and design exhibits of artistic collections)</em></strong>
+	     </ul>
+      <h5><strong><em>Professional Organisations</em></strong></h5>
+      <p>College Art Association</p>
+      <p>National Association for the Visual Arts</p>
+      <p>Photographic Society of America</p>
 </main>
   <footer>
-    <h5><em>Contact info</em><h5>
+      <h6><em>Contact info</em><h6>
       <ol>
-        <li><em>Phone number :</em> 0746542733 </li>
+        <li><em>Phone number :</em> +40746542733 </li>
         <li><em>Email address :</em> ronalddonald@outlook.ac.uk</li>
         <li><em>Business address :</em> 28, Grange Crescent, Edinburgh, Edinburgh, EH9 2EH</li>
       </ol>
   </footer>
+  <label for="file">File progress: </label>
+  <progress id="file"max="100" value="90">90%</progress>
 </body>
 </html>
