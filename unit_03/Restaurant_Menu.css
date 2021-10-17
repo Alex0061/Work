@@ -1,53 +1,70 @@
 @import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@400;700;900&family=Open+Sans:ital,wght@0,300;0,400;0,700;1,400&display=swap');
-
-.paper{
-  background-color: #F2F6DF;
-  max-width: 960px;
-  margin: 40px auto 10px auto;
-  padding: 20px;
-  border-width: 4px;
-  border-style: dotted;
-  border-color: #F2E7C9;
-}
-
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
 body{
-  background-color: #416788;
-}
-
-h1,h2,h3{
-  font-family: 'Alegreya', serif;
-  color: #5F958A;
+  background-image: url(Rest.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-blend-mode: color;
+  background-position: top;
 }
 
 *{
-  font-family: 'Open Sans', sans-serif;
+  margin-right: auto;
+  margin-left: auto;
 }
-
-h1{
-  text-align: center;
-  font-size: 60px;
-  margin: 0;
-  font-weight: 900;
-}
-
-h2{
-  text-align: center;
-  font-size: 30px;
-  font-weight: 700;
-  margin-top: 10px;
+.fab{
+  color: Tan;
 }
 
 header{
-  border-bottom-color: #416788;
-  border-bottom-style: solid;
-  border-bottom-width: 5px;
+  font-family: 'Ephesis', cursive;
 }
-
+header::after{
+  content: '';
+  display: table;
+  clear: both;
+}
+nav{
+  float:right;
+  font-size: 20px;
+}
+a:hover{
+  color: DodgerBlue;
+}
+nav ul{
+  margin:0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+nav li{
+  display: inline-block;
+  padding: 15px;
+  margin-top: 30px;
+  position: relative;
+}
+a{
+  color:Tan;
+}
+h1{
+  font-family: 'Ephesis', cursive;
+  color: DodgerBlue;
+  float: left;
+  font-size: 50px;
+  padding: 15px;
+  margin-left:30px;
+}
+h3{
+  font-family: 'Rampart One', cursive;
+  color:Tan;
+}
 section{
-  background-color: #DDEAD7;
-  padding: 10px;
-  margin: 20px 0;
-}
+  background-color:;
+  max-width: 500px;
+  padding: 10px;}
+
 
 h3{
   font-size: 25px;
@@ -58,20 +75,37 @@ h3{
   text-align: center;
   font-weight: 400;
   margin: 0;
+  font-style: italic;
+  color:GhostWhite;
 }
 
 .dish-description{
+  font-family: 'Andada Pro', serif;
   text-align: center;
-  font-weight: 300;
-  margin: 0
+  font-weight: 200;
+  margin: 0;
+  font-size: 14px;
+  color:Gainsboro;
 }
 
 .dish-price{
+  font-family: 'Ephesis', cursive;
   text-align: center;
   font-weight: 700;
   margin:0;
+  color:Maroon;
 }
 
 .dish{
   margin-bottom: 20px;
+}
+footer{
+  color:white;
+  text-align: right;
+  padding-right: 20px;
+  margin-bottom: 5px;
+}
+footer p{
+  font-family: 'Ephesis', cursive;
+  font-size: 30px;
 }
