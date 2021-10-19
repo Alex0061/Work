@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+*{
+  background-color: LightGray;
+}
+h1, h2, h3,h4,h5,h6{
+  font-family: 'Birthstone', cursive;
+  padding:30px;
+  border-width: 5px;
+  border-style: ridge;
+  border-color: gray;
+  position: relative;
+  text-align: center;
+}
+h1{
+  background-color: #E06E6E;
+}
+h2{
+  background-color: LightSalmon;
+}
+h3{
+  font-size: 30px;
+  background-color:Indianred;
+}
+h4{
+  font-size: 28px;
+  background-color: LightCoral;
+}
+h5{
+  font-size: 26px;
+  background-color:Salmon;
+}
+h6{
+  font-size: 20px;
+  background-color: Darksalmon;
+}
+section{
+  border-style: dashed;
+  border: 0px;
+}
+body{
+  max-width:950px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+#manphoto{
+  width:auto;
+  height: auto;
+  margin:25px;
+}
+
+label{
+  margin:auto;
+}
+#file{
+  border-style: dashed;
+  border-width: 0px;
+  border-color: darkblue;
+  margin: 0;
+}
+header {
+  font-family:'Dancing Script', cursive;
+  font-size: 20px;
+  border-color: Black;
+  border-width: 3px;
+}
+section{
+  background-color: LightGray;
+  background-position:center;
+}
