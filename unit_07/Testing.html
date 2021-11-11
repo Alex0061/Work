@@ -1,29 +1,23 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
+
 <head>
- <meta charset="utf-8">
- <title></title>
- <style media="screen">
- #mybox {
- background-color: tomato; width: 100px; height: 100px;
- }
- </style>
+  <meta charset="utf-8">
+  <title></title>
+  <link rel="stylesheet" href="Testing.css">
 </head>
 
 <body>
- <div onmouseover="mOver(this)" onmouseout="mOut(this)" id="mybox">
- </div>
-</body>
-
-<script type="text/javascript">
- var person = {
-   firstName ="Mike";
-   lastName = "Jack";
-
-   showFullName:function(){
-     console.log(this.firstName + " " + this.lastName)
-   }
- }
- person.showFullName();
-</script>
+  <div class="container">
+   <p class="ares2">Enter Total Bill Amount</p>
+    <input id="billAmount" type="number" class="ares">
+   <p class="ares2">Select Tip Preferences</p>
+    <input id="tipPreferences" type="number" class="ares">
+   <p class="ares2">Tip to Give</p>
+    <input id="tipAmount" type="number" class="ares">
+    <p>
+  <button id="button">Calculate</button>
+  </div>
+  <script src="Testing.js"></script>
+  </body>
 </html>

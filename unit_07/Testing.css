@@ -1,0 +1,27 @@
+html {
+    background-color: aquamarine;
+}
+.container{
+    margin:0 auto;
+    background-color: cornflowerblue;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+}
+.ares{
+    border: darkorchid solid 3px;
+    padding:10px;
+}
+.ares2{
+    color:gold;
+
+}
+
+.btn:hover{
+    background-color: green;
+    color:blanchedalmond;
+    border:2px solid darkturquoise;
+}
+.by{
+    margin-bottom:40px;
+}
